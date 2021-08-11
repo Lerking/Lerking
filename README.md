@@ -1,4 +1,4 @@
-## Welcome to my github page!>
+## Welcome to my github page!
 
 I am a hobby software developer, has been for the past 40'ish years...
 
