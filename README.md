@@ -1,6 +1,6 @@
 ## Welcome to my github page!
 
-I am a hobby software developer, has been for the past 40'ish years...
+I am a hobby software developer, have been for the past 40'ish years...
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
 
