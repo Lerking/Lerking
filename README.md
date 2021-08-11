@@ -12,10 +12,8 @@ I am a hobby software developer, has been for the past 40'ish years...
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-black?style=flat-square&logo=)
-![x86-64 Assembly](https://img.shields.io/badge/-x86-64%20Assembly-black?style=flat-square&logo=)
+![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-black?style=flat-square&logo
 ![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-black?style=flat-square&logo=)
-![ARM-64 Assembly](https://img.shields.io/badge/-ARM%20Assembly-black?style=flat-square&logo=)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
