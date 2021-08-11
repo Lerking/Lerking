@@ -22,11 +22,6 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lerking&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerking&hide=TeX&layout=compact)
 
-[![wakatime](https://github.com/Lerking/Lerking/actions/workflows/wakatime.yml/badge.svg)](https://github.com/Lerking/Lerking/actions/workflows/wakatime.yml)
-
 [![Lerking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lerking)](https://github.com/Lerking/Lerking)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
