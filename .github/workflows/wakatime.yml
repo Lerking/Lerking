@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: Lerking/Lerking@master
+      - uses: tariksahni/coding-stats-wakatime@v1.0.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
