@@ -24,6 +24,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 [![Lerking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lerking&layout=compact)](https://github.com/Lerking/Lerking)
 
-<img src="https://github.com/Lerking/Lerking/blob/master/images/stat.svg" alt="Alternative Text"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
