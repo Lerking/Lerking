@@ -28,3 +28,5 @@ I am a hobby software developer, have been for the past 40'ish years...
 [![Lerking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lerking&layout=compact)](https://github.com/Lerking/Lerking)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Lerking&row=1)](https://github.com/ryo-ma/github-profile-trophy)
