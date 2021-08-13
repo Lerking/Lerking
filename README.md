@@ -24,14 +24,4 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 [![Lerking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lerking&layout=compact)](https://github.com/Lerking/Lerking)
 
-<!--START_SECTION:waka-->
-```text
-Python       3 hrs 39 mins   ██████████████▓░░░░░░░░░░   58.66 % 
-JavaScript   1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-HTML         45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-CSS          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-```
-<!--END_SECTION:waka-->
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
