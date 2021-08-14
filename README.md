@@ -5,7 +5,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 [![Linkedin Badge](https://img.shields.io/badge/-Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
 
 ## Main development platform
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![Linux](https://img.shields.io/badge/MINT-19.3-0071C5?style=for-the-badge&logo=linux&logoColor=white)]()
 
 [![Computer spec cpu](https://img.shields.io/badge/Intel-Core_i7_9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 [![Computer spec gfx](https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
