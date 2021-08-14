@@ -7,7 +7,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ## Main development platform
 [![Linux](https://img.shields.io/badge/MINT-19.3_(tricia)-76B900?style=for-the-badge&logo=linux&logoColor=white)]()
 
-[![Computer spec cpu](https://img.shields.io/badge/ -Core_i7_9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
+[![Computer spec cpu](https://img.shields.io/badge/Intel-Core_i7_9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 [![Computer spec gfx](https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
 
 ## ⚡ Technologies
@@ -30,6 +30,6 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 [![Lerking's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lerking&layout=compact)](https://github.com/Lerking/Lerking)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
-
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Lerking&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
