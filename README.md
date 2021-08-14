@@ -7,7 +7,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ## Main development platform
 [![Linux](https://img.shields.io/badge/MINT-19.3_(tricia)-76B900?style=for-the-badge&logo=linux&logoColor=white)]()
 
-[![Computer spec cpu](https://img.shields.io/badge/Intel-Core_i7_9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
+[![Computer spec cpu](https://img.shields.io/badge/Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 [![Computer spec gfx](https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
 
 ## ⚡ Technologies
