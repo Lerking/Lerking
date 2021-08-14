@@ -17,7 +17,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![x86 Assembly](https://img.shields.io/badge/x86-Assembly-black?style=flat-square&logo=x86)
 ![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-black?style=flat-square&logo=arm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
