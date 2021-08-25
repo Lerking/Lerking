@@ -13,7 +13,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 [![Computer spec ram](https://img.shields.io/badge/memory-16GB-red)]()
 
 ### Vulnerabilities scanning by
-![Snyk](https://img.shields.io/badge/-Snyk-#4C4A73?style=flat-square&logo=snyk)
+![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=Snyk)
 
 ## ⚡ Technologies
 
