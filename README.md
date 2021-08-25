@@ -9,7 +9,8 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 [![Computer spec cpu](https://img.shields.io/badge/Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 [![Computer spec gfx](https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
-[![Computer spec ssd](https://img.shields.io/badge/SSD_860-1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white)]()
+[![Computer spec ssd](https://img.shields.io/badge/SSD_860_EVO-1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white)]()
+[![Computer spec ram](https://img.shields.io/badge/memory-16GB-red)]()
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
