@@ -17,9 +17,6 @@ I am a hobby software developer, have been for the past 40'ish years...
 ### Vulnerabilities scanning by
 <img src="https://img.shields.io/badge/-Snyk-k4C4A73?style=flat-square&logo=Snyk" width=15%/>
 
-### Coding stats by
-<img src="images/wakatime.png" width=15%/>
-
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -38,6 +35,9 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lerking&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerking&hide=TeX&layout=compact)
+
+### Coding stats by
+<img src="images/wakatime.png" width=15%/>
 
 ## Lerking's coding stats since August 10th 2021
 <p float=left>
