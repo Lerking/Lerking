@@ -35,7 +35,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerking&hide=TeX&layout=compact)
 
 <details>
-    <summary>Wakatime stats</summary>
+    <summary>Lerking's Wakatime stats</summary>
     <p>
         <img align="left" src="https://wakatime.com/share/@Lerking/1d71b93f-ab07-4952-a362-daf37613781e.svg" alt="drawing" width=50%/>
         <img align="right" src="https://wakatime.com/share/@Lerking/75b08ecc-1583-4bf6-96e4-d28660651355.svg" alt="drawing" width=50%/>
