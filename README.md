@@ -15,7 +15,10 @@ I am a hobby software developer, have been for the past 40'ish years...
 </p>
 
 ### Vulnerabilities scanning by
-![Snyk](https://img.shields.io/badge/-Snyk-k4C4A73?style=flat-square&logo=Snyk)
+<img src="https://img.shields.io/badge/-Snyk-k4C4A73?style=flat-square&logo=Snyk" width=15%/>
+
+### Coding stats by
+<img src="/images/wakatime.svg" width=20%/>
 
 ## ⚡ Technologies
 
