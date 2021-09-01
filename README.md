@@ -36,8 +36,8 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ## Lerking's Wakatime stats since August 10th 2021
 <p float=left>
-    <img title="Languages" src="https://wakatime.com/share/@Lerking/891bd245-0ed4-4b25-bcc3-ec48562fb369.svg" width=48%/>
-    <img title="Total coding time" src="https://wakatime.com/share/@Lerking/3cc31733-f63a-411d-b00e-7150d9e289ed.svg" width=48%/>
+    <img src="https://wakatime.com/share/@Lerking/d83a3d9c-2b0e-4d07-a151-f3c23755f877.svg" width=48%/>
+    <img src="https://wakatime.com/share/@Lerking/aaf59712-67be-4842-ac38-fe73d1dac44d.svg" width=48%/>
 </p>
 
 
