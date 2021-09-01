@@ -36,8 +36,8 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ## Lerking's coding stats since August 10th 2021
 <p float=left>
-    <img src="https://wakatime.com/share/@Lerking/d83a3d9c-2b0e-4d07-a151-f3c23755f877.svg" width=48%/>
-    <img src="https://wakatime.com/share/@Lerking/aaf59712-67be-4842-ac38-fe73d1dac44d.svg" width=48%/>
+    <img src="https://wakatime.com/share/@Lerking/2d0854cb-065f-42e0-87a6-08aac4db2bbf.svg" width=48%/>
+    <img src="https://wakatime.com/share/@Lerking/2b0691ba-316d-49d1-9b55-206c6d897848.svg" width=48%/>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
