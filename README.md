@@ -18,7 +18,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 <img src="https://img.shields.io/badge/-Snyk-k4C4A73?style=flat-square&logo=Snyk" width=15%/>
 
 ### Coding stats by
-<img src="images/wakatime.svg" width=15% style="background-color:white; padding:10px;"/>
+<img src="images/wakatime.png" width=15%/>
 
 ## ⚡ Technologies
 
