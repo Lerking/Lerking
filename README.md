@@ -34,10 +34,10 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lerking&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerking&hide=TeX&layout=compact)
 
-## Lerking's Wakatime stats
+## Lerking's Wakatime stats since August 10th 2021
 <p float=left>
-    <img src="https://wakatime.com/share/@Lerking/1d71b93f-ab07-4952-a362-daf37613781e.svg" width=45%/>
-    <img src="https://wakatime.com/share/@Lerking/ce92226c-0e74-4043-9d08-a3742953a100.svg" width=45%/>
+    <img title="Languages" src="https://wakatime.com/share/@Lerking/891bd245-0ed4-4b25-bcc3-ec48562fb369.svg" width=48%/>
+    <img title="Total coding time" src="https://wakatime.com/share/@Lerking/3cc31733-f63a-411d-b00e-7150d9e289ed.svg" width=48%/>
 </p>
 
 
