@@ -36,7 +36,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ## Lerking's Wakatime stats
 <p float=left>
-    <img src="https://wakatime.com/share/@Lerking/1d71b93f-ab07-4952-a362-daf37613781e.svg" width=200/>
+    <img src="https://wakatime.com/share/@Lerking/1d71b93f-ab07-4952-a362-daf37613781e.svg" width=50%/>
     <img src="https://wakatime.com/share/@Lerking/75b08ecc-1583-4bf6-96e4-d28660651355.svg" width=200/>
 </p>
 
