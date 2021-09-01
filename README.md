@@ -5,15 +5,15 @@ I am a hobby software developer, have been for the past 40'ish years...
 [![Linkedin Badge](https://img.shields.io/badge/-Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
 
 ## Main development platform
-[![Linux](https://img.shields.io/badge/MINT-19.3_(tricia)-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]()
+<img src="https://img.shields.io/badge/MINT-19.3_(tricia)-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" width=20%/>
 
-[![Computer spec cpu](https://img.shields.io/badge/Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
-[![Computer spec gfx](https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
-[![Computer spec ssd](https://img.shields.io/badge/SSD_860_EVO-1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white)]()
-[![Computer spec ram](https://img.shields.io/badge/memory-16GB-red)]()
+<img src="https://img.shields.io/badge/Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white" width=20%/>
+<img src="https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width=20%/>
+<img src="https://img.shields.io/badge/SSD_860_EVO-1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white" width=20%/>
+<img src="https://img.shields.io/badge/memory-16GB-red" width=20%/>
 
 ### Vulnerabilities scanning by
-![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=Snyk)
+![Snyk](https://img.shields.io/badge/-Snyk-k4C4A73?style=flat-square&logo=Snyk)
 
 ## ⚡ Technologies
 
