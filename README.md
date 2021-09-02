@@ -36,8 +36,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lerking&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerking&hide=TeX&layout=compact)
 
-### Coding stats by
-<img src="wakatime.png" width=15%/>
+### Coding stats by Wakatime
 
 ## Lerking's coding stats since August 10th 2021
 <p float=left>
