@@ -37,7 +37,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerking&hide=TeX&layout=compact)
 
 ### Coding stats by
-<img src="images/wakatime.svg" width=15%/>
+<img src="wakatime.png" width=15%/>
 
 ## Lerking's coding stats since August 10th 2021
 <p float=left>
