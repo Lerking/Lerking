@@ -11,7 +11,7 @@ I am a hobby software developer, have been for the past 40'ish years...
     <img src="https://img.shields.io/badge/Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white" width=20%/>
     <img src="https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width=20%/>
     <img src="https://img.shields.io/badge/SSD_860_EVO-1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white" width=20%/>
-    <img src="https://img.shields.io/badge/memory-16GB-red" width=20%/>
+    <img src="https://img.shields.io/badge/memory-32GB-red" width=20%/>
 </p>
 
 ### Vulnerabilities scanning by
