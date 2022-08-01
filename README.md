@@ -32,7 +32,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Tacton](https://img.shields.io/badge/Tacton-TCStudio-orange)
-![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=Go)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lerking&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerking&hide=TeX&layout=compact)
