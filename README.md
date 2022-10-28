@@ -14,9 +14,6 @@ I am a hobby software developer, have been for the past 40'ish years...
     <img src="https://img.shields.io/badge/memory-64GB-red" width=20%/>
 </p>
 
-### Vulnerabilities scanning by
-<img src="https://img.shields.io/badge/-Snyk-k4C4A73?style=flat-square&logo=Snyk" width=15%/>
-
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
