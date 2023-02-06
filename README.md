@@ -7,7 +7,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ## Main development platform (Dual boot)
 <p float=left>
 <img src="https://img.shields.io/badge/MINT-20.3_(una)-87CF3E?style=plastic&logo=linux-mint&logoColor=white" width=20%/>
-<img src="https://img.shields.io/badge/Windows 11 Pro-87CF3E?style=plastic&logo=windows&logoColor=white" width=20%/>
+<img src="https://img.shields.io/badge/Windows 11 Pro-87CF3E?style=plastic&logo=Windows 11&logoColor=white" width=20%/>
 </p>
 
 <p float=left>
@@ -26,7 +26,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86-Assembly-lightgrey)
-![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-lightgrey)
+![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-lightgrey&logo=Arm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
