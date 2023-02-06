@@ -6,15 +6,15 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ## Main development platform
 <p float=left>
-<img src="https://img.shields.io/badge/MINT-20.3_(una)-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" width=20%/>
-<img src="https://img.shields.io/badge/Windows 11 Pro-87CF3E?style=for-the-badge&logo=windows&logoColor=white" width=20%/>
+<img src="https://img.shields.io/badge/MINT-20.3_(una)-87CF3E?style=plastic&logo=linux-mint&logoColor=white" width=20%/>
+<img src="https://img.shields.io/badge/Windows 11 Pro-87CF3E?style=plastic&logo=windows&logoColor=white" width=20%/>
 </p>
 
 <p float=left>
-    <img src="https://img.shields.io/badge/Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white" width=20%/>
-    <img src="https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width=20%/>
-    <img src="https://img.shields.io/badge/SSD_860_EVO-1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white" width=20%/>
-    <img src="https://img.shields.io/badge/memory-64GB-1428A0?style=for-the-badge&logo=kingston&logoColor=whit" width=20%/>
+    <img src="https://img.shields.io/badge/Core_i7-9750H-0071C5?style=plastic&logo=intel&logoColor=white" width=20%/>
+    <img src="https://img.shields.io/badge/GeForce-GTX_1660_Ti-76B900?style=plastic&logo=nvidia&logoColor=white" width=20%/>
+    <img src="https://img.shields.io/badge/SSD_860_EVO-1TB-1428A0?style=plastic&logo=samsung&logoColor=white" width=20%/>
+    <img src="https://img.shields.io/badge/memory-64GB-1428A0?style=plastic&logo=kingston&logoColor=whit" width=20%/>
 </p>
 
 ## ⚡ Technologies
