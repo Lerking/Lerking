@@ -5,8 +5,10 @@ I am a hobby software developer, have been for the past 40'ish years...
 [![Linkedin Badge](https://img.shields.io/badge/-Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
 
 ## Main development platform
+<p float=left>
 <img src="https://img.shields.io/badge/MINT-20.3_(una)-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" width=20%/>
 <img src="https://img.shields.io/badge/Windows 11 Pro-87CF3E?style=for-the-badge&logo=windows&logoColor=white" width=20%/>
+</p>
 
 <p float=left>
     <img src="https://img.shields.io/badge/Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white" width=20%/>
