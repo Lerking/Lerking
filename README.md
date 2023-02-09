@@ -39,5 +39,6 @@ I am a hobby software developer, have been for the past 40'ish years...
     <img src="https://wakatime.com/share/@Lerking/14b327d0-cebc-4630-9636-d2614004a28a.svg" width=48%/>
 </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lerking)](https://wakatime.com/badge/github/Lerking/Lerking)
 [![wakatime](https://wakatime.com/badge/github/Lerking/Lerking.svg)](https://wakatime.com/badge/github/Lerking/Lerking)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.Lerking)
