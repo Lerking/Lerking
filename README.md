@@ -1,6 +1,7 @@
 ## Welcome to my github page!
 
 I am a hobby software developer, have been for the past 40'ish years...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lerking&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
 
