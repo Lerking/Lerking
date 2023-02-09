@@ -19,13 +19,13 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ## ⚡ Technologies
 
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![Tacton](https://img.shields.io/badge/Tacton-TCStudio-orange)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![x86 Assembly](https://img.shields.io/badge/x86-Assembly-lightgrey)
 ![ARM Assembly](https://img.shields.io/badge/ARM-Assembly-lightgrey&logo=Arm&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Tacton](https://img.shields.io/badge/Tacton-TCStudio-orange)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lerking&count_private=true&show_icons=true&include_all_commits=true)
