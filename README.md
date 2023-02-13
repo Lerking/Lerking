@@ -6,6 +6,8 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ![Profile views](https://gpvc.arturio.dev/Lerking)
 [![GitHub followers](https://img.shields.io/github/followers/Lerking.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Lerking?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Lerking.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Lerking/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Lerking.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Lerking/watchers/)
 
 ## Main development platform (Dual boot)
 <p float=left>
