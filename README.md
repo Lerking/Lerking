@@ -2,7 +2,7 @@
 
 I am a hobby software developer, have been for the past 40'ish years...
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
+[![Linkedin Badge](https://img.shields.io/badge/-Jan Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
 
 ![Profile views](https://gpvc.arturio.dev/Lerking)
 [![GitHub followers](https://img.shields.io/github/followers/Lerking.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Lerking?tab=followers)
