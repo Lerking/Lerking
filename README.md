@@ -2,6 +2,8 @@
 
 I am a hobby software developer, have been for the past 40'ish years...
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jan-lerking-10577892" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/jan-lerking-10577892?trk=profile-badge">Jan Lerking</a></div>
+              
 [![Linkedin Badge](https://img.shields.io/badge/-Lerking-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://dk.linkedin.com/in/jan-lerking-10577892)](https://dk.linkedin.com/in/jan-lerking-10577892)
 
 ![Profile views](https://gpvc.arturio.dev/Lerking)
