@@ -10,7 +10,7 @@ I am a hobby software developer, have been for the past 40'ish years...
 
 ## Main development platform (Dual boot)
 <p float=left>
-<img src="https://img.shields.io/badge/MINT-21.2_(Victoria)-87CF3E?style=plastic&logo=linux-mint&logoColor=white" width=20%/>
+<img src="https://img.shields.io/badge/MINT-21.3_(Virginia)-87CF3E?style=plastic&logo=linux-mint&logoColor=white" width=20%/>
 <img src="https://img.shields.io/badge/Windows 11 Pro-87CF3E?style=plastic&logo=Windows 11&logoColor=white" width=20%/>
 </p>
 
